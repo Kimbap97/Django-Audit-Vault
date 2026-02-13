@@ -1,7 +1,7 @@
 # 🛡️ Django-Audit-Vault
 **Gestión Profesional de Incidentes y Auditoría SQL**
 
-Este es el proyecto #12 de mi portafolio anual. Es un sistema desarrollado en Django enfocado en la persistencia segura de eventos de ciberseguridad.
+Es un sistema desarrollado en Django enfocado en la persistencia segura de eventos de ciberseguridad.
 
 ## 🛠️ Stack Técnico
 * **Backend:** Django 5.x
@@ -14,4 +14,5 @@ Este es el proyecto #12 de mi portafolio anual. Es un sistema desarrollado en Dj
 * **Ciberseguridad Práctica:** Registro de IPs de origen y niveles de severidad basados en estándares de la industria.
 
 ---
+
 > Proyecto desarrollado con honestidad técnica, reflejando mi avance hacia la titulación como Analista Programador.
